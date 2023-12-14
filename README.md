@@ -44,3 +44,4 @@
 <img src="https://raw.githubusercontent.com/SatyamKaGithub/SatyamKaGithub/output/snake.svg" alt="Snake animation" />
 
 ###
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamKaGithub&theme=tokyonight)

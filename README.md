@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=SatyamKaLeetCode)](https://github.com/KnlnKS/leetcode-stats)
-![](https://leetcard.SatyamKa.LeetCode/lapor?ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/SatyamKaLeetHub?theme=dark&font=Carrois%20Gothic&ext=activity)

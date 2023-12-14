@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=SatyamKaLeetCode)](https://github.com/KnlnKS/leetcode-stats)
-![](https://leetcard.jacoblin.cool/lapor?ext=contest)
+![](https://leetcard.SatyamKaLeetCode/lapor?ext=contest)

@@ -6,7 +6,7 @@
 ![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=SatyamKaGithub)
 </div>
 <div align="left">
-  <img height="205" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatyamKaGithub&locale=en&hide_title=false&layout=compact&card_width=338&langs_count=4&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+<img height="700" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatyamKaGithub&locale=en&hide_title=false&layout=compact&card_width=700&langs_count=10&theme=radical&hide_border=false" height="750" alt="languages graph"  />
 </div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SatyamKaGithub)](https://git.io/streak-stats)

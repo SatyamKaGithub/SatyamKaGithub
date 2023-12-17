@@ -38,10 +38,9 @@
 <div align="left">
   <h2>Connect with me: </h2>
 
-[![Twitter](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/_satyam_002_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue)](https://www.linkedin.com/in/satyam-kumar-505861253)
 [![GitHub](https://img.shields.io/github/followers/YourGitHubUsername?label=Follow%20%40YourGitHubUsername&style=social)](https://github.com/SatyamKaGithub)
-[![Instagram](https://img.shields.io/badge/Instagram-YourInstagramHandle-orange)](https://www.instagram.com/_satyam_002_/)
+
 
 </div>
 

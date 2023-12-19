@@ -41,6 +41,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue)](https://www.linkedin.com/in/satyam-kumar-505861253)
 [![GitHub](https://img.shields.io/github/followers/YourGitHubUsername?label=Follow%20%40YourGitHubUsername&style=social)](https://github.com/SatyamKaGithub)
 ###
+<h2>Profile Visits</h2>
 
 ![Visitor Count](https://profile-counter.glitch.me/SatyamKaGithub/count.svg)
 

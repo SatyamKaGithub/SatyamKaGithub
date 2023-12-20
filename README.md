@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Satyam Kumar and I'm a Computer Science Engineering Student, from India</h2>
 
 ###
-<div align="left">
+
 
 
 ![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=SatyamKaGithub)

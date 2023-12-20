@@ -2,10 +2,10 @@
 
 ###
 <div align="left">
-  
+
 
 ![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=SatyamKaGithub)
-
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatyamKaGithub&theme=github_dark" />
 [![GitHub Streak](https://streak-stats.demolab.com?user=SatyamKaGithub&theme=cobalt)](https://git.io/streak-stats)
 ###
 <div align="left">

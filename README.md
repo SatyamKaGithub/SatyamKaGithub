@@ -51,8 +51,6 @@
 
 </div>
 
-###
-
 ![Leetcode Stats](https://leetcard.jacoblin.cool/SatyamKaLeetCode)
 
 ###

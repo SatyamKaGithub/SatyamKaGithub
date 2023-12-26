@@ -42,8 +42,8 @@
 <div align="left">
   <h2>Connect with me: </h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue)](https://www.linkedin.com/in/satyam-kumar-505861253)
-[![GitHub](https://img.shields.io/github/followers/YourGitHubUsername?label=Follow%20%40YourGitHubUsername&style=social)](https://github.com/SatyamKaGithub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/satyam-kumar-505861253)
+[![GitHub](https://img.shields.io/github/followers/SatyamKaGithub?label=Follow%20%40SatyamKaGithub&style=social)](https://github.com/SatyamKaGithub)
 ###
 <h2>Profile Visits</h2>
 

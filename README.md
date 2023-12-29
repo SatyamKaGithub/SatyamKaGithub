@@ -3,8 +3,7 @@
 ###
 
 
-
-![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=SatyamKaGithub)
+![SatyamKaGithub github-stats](https://stats.dooboo.io/api/github-stats?login=SatyamKaGithub)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SatyamKaGithub&theme=cobalt)](https://git.io/streak-stats)
 ###

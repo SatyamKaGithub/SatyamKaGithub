@@ -5,7 +5,14 @@
 
 ![SatyamKaGithub github-stats](https://stats.dooboo.io/api/github-stats?login=SatyamKaGithub)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SatyamKaGithub&theme=cobalt)](https://git.io/streak-stats)
+<a href="https://github.com/SatyamKaGithub/github-readme-stats">
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=SatyamKaGithub&theme=cobalt)](https://git.io/streak-stats" />
+</a>
+<a href="https://github.com/SatyamKaGithub/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatyamKaGithub&layout=compact&langs_count=8&card_width=470" />
+</a>
+
+
 ###
 <div align="left">
   <h2> Languages and Tools: </h2>

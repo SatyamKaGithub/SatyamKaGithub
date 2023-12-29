@@ -9,11 +9,15 @@
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=SatyamKaGithub&theme=cobalt)](https://git.io/streak-stats" />
 </a>
 <a href="https://github.com/SatyamKaGithub/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatyamKaGithub&layout=compact&langs_count=8&card_width=480" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatyamKaGithub&layout=compact&langs_count=8&card_width=482" />
 </a>
 
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/SatyamKaLeetCode)
 ###
+
+<h2>Profile Visits</h2>
+
+![Visitor Count](https://profile-counter.glitch.me/SatyamKaGithub/count.svg)
 <div align="left">
   <h2> Languages and Tools: </h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
@@ -51,13 +55,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/satyam-kumar-505861253)
 [![GitHub](https://img.shields.io/github/followers/SatyamKaGithub?label=Follow%20%40SatyamKaGithub&style=social)](https://github.com/SatyamKaGithub)
 ###
-<h2>Profile Visits</h2>
 
-![Visitor Count](https://profile-counter.glitch.me/SatyamKaGithub/count.svg)
 
 </div>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/SatyamKaLeetCode)
+
 
 ###
 

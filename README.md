@@ -6,6 +6,8 @@
 
 ![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=SatyamKaGithub)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamKaGithub&layout=compact&exclude_repo=Tips-tools)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=SatyamKaGithub&theme=cobalt)](https://git.io/streak-stats)
 ###
 <div align="left">

@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Satyam Kumar and I'm a Computer Science Engineering Student, from India</h2>
+<h2 align="left">Hi 👋! My name is Satyam Kumar and I'm a Computer Science Engineering Student</h2>
 
 ###
 

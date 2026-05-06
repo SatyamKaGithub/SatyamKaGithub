@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me 
 - 🎓 CSE graduate from India  
 - 💻 Focused on **Data Structures, Problem Solving, Data Engineering & Full Stack Development**  
 - 📈 Actively building projects and improving coding consistency  

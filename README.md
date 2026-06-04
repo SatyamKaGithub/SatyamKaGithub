@@ -19,7 +19,7 @@
 `HTML` `CSS` `React`  
 
 **Tools & Technologies:**  
-`Git` `VS Code` `IntelliJ`  
+`Git` `VS Code` `IntelliJ` `Snowflake`
 
 ---
 

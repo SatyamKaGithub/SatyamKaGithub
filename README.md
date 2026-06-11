@@ -37,7 +37,7 @@
 
 ## 📊 Coding Profiles
 - 🧠 LeetCode: https://leetcode.com/SatyamKaLeetCode/  
-- 💼 LinkedIn: https://www.linkedin.com/in/satyam-kumar-505861253  
+- 💼 LinkedIn: https://www.linkedin.com/in/satyam-k-505861253/ 
 
 ---
 

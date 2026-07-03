@@ -49,8 +49,8 @@
 ---
 
 ## 🎯 Current Focus
-- Improving **DSA problem-solving speed**  
-- Building **real-world finance + full-stack projects**  
+-  Building **real-world finance + full-stack projects** 
+- Improving **DSA problem-solving speed** 
 - Strengthening **system design fundamentals**  
 
 ---

@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
-<h3 align="center">Associate Software Engineer</h3>
 
 ---
 
